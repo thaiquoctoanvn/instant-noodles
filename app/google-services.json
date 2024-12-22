@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227718288799",
+    "project_id": "flexible-sample",
+    "storage_bucket": "flexible-sample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227718288799:android:c9b4a540b77f79677619aa",
+        "android_client_info": {
+          "package_name": "com.example.fastlanesample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdENpoR7pU7J-CaSoipcN8-4D96kVwbCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
