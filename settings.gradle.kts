@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Fastlane Sample"
+rootProject.name = "Instant Noodles"
 include(":app")
